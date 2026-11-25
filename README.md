@@ -10,7 +10,7 @@ Founder of Perennos, a Cayman Islands studio. DJ MAARZ on the music side.
 | Work | Detail |
 |---|---|
 | Latest merged Ten Sail fix | [csound/csound #3745](https://github.com/csound/csound/pull/3745), merged 24 Nov 2026 |
-| Ten Sail: security fixes to open-source software, every case logged | 26 public pull requests to 23 projects: 1 merged, 25 open. [All 39 cases](https://perennos.com/ten-sail/) |
+| Ten Sail: security fixes to open-source software, every case logged | 26 public pull requests to 23 projects: 1 merged, 25 open. [39 cases](https://perennos.com/ten-sail/) |
 | Company | [perennos.com](https://perennos.com) |
 | Product | [Perennos Tempo](https://github.com/Perennos/perennos-tempo) |
 
